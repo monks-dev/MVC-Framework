@@ -26,8 +26,7 @@ define('FOOTER', APPROOT . '/views/Inc/footer.php');
 ```
 
 ### .htaccess
-./public/.htaccess
-Change the RewriteBase your own
+Change the RewriteBase your own in ./public/.htaccess
 ```
 <IfModule mod_rewrite.c>
     Options -Multiviews
