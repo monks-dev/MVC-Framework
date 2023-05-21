@@ -26,7 +26,7 @@ define('FOOTER', APPROOT . '/views/Inc/footer.php');
 ```
 
 ### .htaccess
-
+./public/.htaccess
 Change the RewriteBase your own
 ```
 <IfModule mod_rewrite.c>
